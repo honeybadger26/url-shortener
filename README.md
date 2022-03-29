@@ -1,4 +1,5 @@
 # URL Shortener
+Convert URLs to a shortened version
 
 ## Instructions
 In this folder run:
